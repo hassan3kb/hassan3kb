@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&family=Ubuntu:wght@400;700&display=swap");
+* {
+  box-sizing: border-box;
+  &::selection {
+    color: #111;
+    background: #ababab;
+  }
+}
+body {
+  margin: 2%;
+  font-family: Ubuntu, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background: #333;
+  color: #fff;
+  font-size: 100%;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+  font-family: "Ubuntu Mono", monospace;
+}
+
+header {
+  margin: 20px 0;
+  display: flex;
+  // flex-direction: column;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-right: 10px;
+    cursor: none;
+    @media (max-width: 400px) {
+      width: 90px;
+      height: 90px;
+    }
+  }
+  h1,
+  p {
+    margin: 0;
+  }
+  p {
+    font-family: "Ubuntu Mono", monospace;
+  }
+  @media (max-width: 400px) {
+    font-size: 80%;
+  }
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  section {
+    width: 600px;
+
+    @media (max-width: 600px) {
+      width: 100%;
+    }
+
+    .heading {
+      font-weight: normal;
+      margin: 10px 0;
+    }
+
+    .content {
+      a {
+        font-family: "Courier New", Courier, monospace;
+        border-bottom: 1px solid #fff;
+      }
+      table {
+        td {
+          padding: 5px 10px;
+        }
+      }
+    }
+  }
+}
+
+.grey-text {
+  color: #ababab;
+}
