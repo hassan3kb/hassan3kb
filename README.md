@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hassan</h1>
-<h3 align="center">A software engineer from Pakistan</h3>
-
+![image](https://user-images.githubusercontent.com/50540734/221945507-6b4bcd8b-dc6b-40fe-832a-931557e3f123.png)
 
 ## ❤️ Things I LOVE
 
