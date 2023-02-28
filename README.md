@@ -4,17 +4,15 @@
 
 ## ❤️ Things I LOVE
 
-`JavaScript` 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)&nbsp;&nbsp;
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/) &nbsp;&nbsp;
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)&nbsp;&nbsp;
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+
+
 `Chrome Extensions`
-`NodeJS`
-`MongoDB`
-
-
 `Telegram BOTs`
 `Serverless applications`
-`VS code`
-`localhost`
-
 
 
   
@@ -49,9 +47,9 @@
   ### &nbsp;&nbsp;&nbsp; [HostAway - AI-responder](https://chrome.google.com/webstore/detail/hostaway-ai-responder/jdimmnpkameldecjkakpmfeglelpgppe)
   > This chrome extension helps HostAways users to response to their guest with GPT-3 powered responses. 
   >
-  >  `AWS Lambda`, `DynamoDB`, `Stripe payments API`
+  >  `AWS Lambda` `DynamoDB` `Stripe payments API` `JavaScript`
 
 
 #
 
- `I love connecting with technology enthusiasts, feel free to contact me.`
+ `I love connecting with technology enthusiasts, feel free to contact me.` 
