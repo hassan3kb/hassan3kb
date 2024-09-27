@@ -1,53 +1,29 @@
-![image](https://user-images.githubusercontent.com/50540734/221945507-6b4bcd8b-dc6b-40fe-832a-931557e3f123.png)
+# Hi, I'm Hassan! 👋
 
-## ❤️ Things I LOVE
+I'm a passionate Full Stack Developer with 3+ years of experience in building modern web applications and browser extensions. My work focuses on creating efficient, scalable, and user-friendly solutions using the latest technologies.
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)&nbsp;&nbsp;
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/) &nbsp;&nbsp;
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)&nbsp;&nbsp;
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+### 💻 Tech Stack
+- **Frontend**: React.js, TypeScript, Tailwind CSS
+- **Backend**: Node.js, Express, MongoDB, Firebase
+- **Browser Extensions**: Chrome & Firefox (Automation, Data Scraping, Custom Integrations)
+- **Hosting**: Vercel, AWS, GCP
+- **Others**: Stripe, DynamoDB, AWS Lambda
 
+### 🚀 What I Do
+- **MERN Stack Development**: I specialize in building full-stack applications using React.js, Node.js, MongoDB, and Express.
+- **Browser Extensions**: I develop custom browser extensions for Chrome and Firefox, focusing on automation, web scraping, and UI enhancements.
+- **TypeScript & Firebase**: I use TypeScript for safer, more scalable code, and Firebase for backend services like authentication, real-time databases, and hosting.
 
-`Chrome Extensions`
-`Telegram BOTs`
-`Serverless applications`
+### 🛠️ Projects I’ve Worked On
+- **[SEOWallet Extension](https://chromewebstore.google.com/detail/seowallet-your-personal-s/mmdmglmkoblcdgndchbohenfoglomjfk)**: Developed the authentication system and backend using Firebase.
+- **[OpenWardrobe Extension](https://chromewebstore.google.com/detail/openwardrobe/jeibidfaelmiiioohfplflcpnelgipei)**: A browser extension working on 300+ eCommerce websites.
+- **[DAT Snap Extension](https://chromewebstore.google.com/detail/dat-snap/ofokcbfkahloimfjddpcogahlhoghbbc)**: Built a seamless browser extension integrating React, Tailwind, and APIs, with Stripe subscription services.
+- **[AI-Responder for Hostaway](https://chromewebstore.google.com/detail/hostaway-ai-responder/jdimmnpkameldecjkakpmfeglelpgppe)**: Complete development, including AWS Lambda, Stripe, and DynamoDB.
 
+### 🌱 Currently Exploring
+- Enhancing my skills in **cloud computing** and **serverless architectures**.
+- Experimenting with **AI integrations** in web apps.
 
-  
-## 📅 Hobbies
-
-- Solve programming problems Codewars.com
-- Listing to podcasts (Thought Behind Things, Naeem Sikandar Podcast)
-- Badminton
-- Spotify
-
-
-
-## 📚 Learning
-
-- React.js
-- Communication and publick speaking skills
-
-
-
-##  💻 Projects
-
-  ### &nbsp;&nbsp;&nbsp; [HITs Assistant](https://chrome.google.com/webstore/detail/hits-assistant/ofodddoikgpolpnbpmgpmihhoinabdck)
-  > HITs Assistant is a combination of a chrome extension and a telegram bot. Basically it sends notification in telegram inbox upon certain events on a website.
-  > 
-  > `JavaScript`  `Telegram BOTs API`  `PHP`  `MySQL`
-  ### &nbsp;&nbsp;&nbsp; [OpenWardrobe Extension](https://chrome.google.com/webstore/detail/openwardrobe/jeibidfaelmiiioohfplflcpnelgipei)
-  > OpenWardrobe is a digital wardrobe, and the extension helps users to add items to their wardrobe directly from shopping websites.
-  > 
-  > I developed only extension (Backend API was provided). I also maintain it.
-  >
-  >  `JavaScript`
-  ### &nbsp;&nbsp;&nbsp; [HostAway - AI-responder](https://chrome.google.com/webstore/detail/hostaway-ai-responder/jdimmnpkameldecjkakpmfeglelpgppe)
-  > This chrome extension helps HostAways users to response to their guest with GPT-3 powered responses. 
-  >
-  >  `AWS Lambda` `DynamoDB` `Stripe payments API` `JavaScript`
-
-
-#
-
- `I love connecting with technology enthusiasts, feel free to contact me.` 
+### 📫 Let’s Connect
+- **[LinkedIn](https://linkedin.com/in/hassan3kb)**
+- **[Fiverr](https://fiverr.com/ghassan05)**
