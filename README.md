@@ -1,29 +1,17 @@
-# Hi, I'm Hassan! 👋
+I'm a Product Engineer focused on workflow automation and SaaS development — I build software that eliminates manual work and helps businesses run faster.
 
-I'm a passionate Full Stack Developer with 3+ years of experience in building modern web applications and browser extensions. My work focuses on creating efficient, scalable, and user-friendly solutions using the latest technologies.
+Over the past 3+ years, I've shipped 200+ browser extensions, automation pipelines, and full-stack web products for clients across e-commerce, productivity, and B2B SaaS. My work spans everything from scoped MVPs to production systems handling real business operations.
 
-### 💻 Tech Stack
-- **Frontend**: React.js, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Express, MongoDB, Firebase
-- **Browser Extensions**: Chrome & Firefox (Automation, Data Scraping, Custom Integrations)
-- **Hosting**: Vercel, AWS, GCP
-- **Others**: Stripe, DynamoDB, AWS Lambda
+Currently pursuing a BS in Computer Science at COMSATS University Islamabad, while running an active freelance practice on Fiverr, Upwork — building products for international clients and learning what it takes to ship software that actually works in the wild.
 
-### 🚀 What I Do
-- **MERN Stack Development**: I specialize in building full-stack applications using React.js, Node.js, MongoDB, and Express.
-- **Browser Extensions**: I develop custom browser extensions for Chrome and Firefox, focusing on automation, web scraping, and UI enhancements.
-- **TypeScript & Firebase**: I use TypeScript for safer, more scalable code, and Firebase for backend services like authentication, real-time databases, and hosting.
+What I work with:
+→ Frontend: React, Next.js, TypeScript, Tailwind CSS
+→ Backend: Node.js, Python, Firebase, REST & GraphQL APIs
+→ Integrations: Microsoft Graph API, Amazon Seller Central, 
+   Google APIs, Stripe, OAuth / Azure Entra ID
+→ Cloud: AWS, GCP, Azure
 
-### 🛠️ Projects I’ve Worked On
-- **[SEOWallet Extension](https://chromewebstore.google.com/detail/seowallet-your-personal-s/mmdmglmkoblcdgndchbohenfoglomjfk)**: Developed the authentication system and backend using Firebase.
-- **[OpenWardrobe Extension](https://chromewebstore.google.com/detail/openwardrobe/jeibidfaelmiiioohfplflcpnelgipei)**: A browser extension working on 300+ eCommerce websites.
-- **[DAT Snap Extension](https://chromewebstore.google.com/detail/dat-snap/ofokcbfkahloimfjddpcogahlhoghbbc)**: Built a seamless browser extension integrating React, Tailwind, and APIs, with Stripe subscription services.
-- **[AI-Responder for Hostaway](https://chromewebstore.google.com/detail/hostaway-ai-responder/jdimmnpkameldecjkakpmfeglelpgppe)**: Complete development, including AWS Lambda, Stripe, and DynamoDB.
+I care about building things that solve real problems — not just writing code that runs.
 
-### 🌱 Currently Exploring
-- Enhancing my skills in **cloud computing** and **serverless architectures**.
-- Experimenting with **AI integrations** in web apps.
+Open to freelance projects, collaborations, and conversations about automation, SaaS, or anything in between.
 
-### 📫 Let’s Connect
-- **[LinkedIn](https://linkedin.com/in/hassan3kb)**
-- **[Fiverr](https://fiverr.com/ghassan05)**
