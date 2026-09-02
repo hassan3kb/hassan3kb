@@ -1,25 +1,31 @@
 
-Hi, I'm Hassan, a Product Engineer focused on workflow automation and SaaS development.
-I build software that eliminates manual work and helps businesses run faster.
+# Ghulam Hassan
 
+Full-Stack Software Engineer with 4+ years of experience building software products used by thousands of users.
+Experienced across the full stack — frontend, backend, databases, and infrastructure — with a focus on writing
+secure, maintainable systems that scale.
 
-Over the past 3+ years, I've shipped 200+ browser extensions, automation pipelines,
-and full-stack web products for clients across e-commerce, productivity, and B2B SaaS.
-My work spans everything from scoped MVPs to production systems handling real business operations.
-
-Currently pursuing a BS in Computer Science at COMSATS University Islamabad, while running an active freelance practice on Fiverr,
-Upwork — building products for international clients and learning what it takes to ship software that actually works in the wild.
 
 ```md
-Things I work with:
+# Freelance · Self-employed | 2022 – Present
 
-- Frontend: React, Next.js, TypeScript, Tailwind CSS
-- Backend: Node.js, Python, Firebase, REST & GraphQL APIs
-- Integrations: Microsoft Graph API, Amazon Seller Central, Google APIs, Stripe, OAuth / Azure Entra ID
-- Cloud: AWS, GCP, Azure
+- Designed and delivered multiple SaaS products end-to-end, from architecture through deployment
+
+- Built and shipped browser extensions and web applications used by thousands of end users
+
+- Integrated third-party payment systems to enable subscription-based billing
+
+- Implemented secure authentication and authorization flows to protect user data and meet privacy standards
+
+- Developed custom APIs to extend product functionality and integrate with external services
+
+- Built responsive, cross-device user interfaces using modern frontend frameworks
+
+- Designed and maintained databases to support application data and scalability needs
+
+- Automated communication workflows by integrating third-party email and productivity APIs
+
+- Architected and deployed serverless, microservices-based systems to improve scalability and reduce infrastructure overhead
+
 ```
-
-I care about building things that solve real problems — not just writing code that runs.
-
-Open to freelance projects, collaborations, and conversations about automation, SaaS, or anything in between.
 
